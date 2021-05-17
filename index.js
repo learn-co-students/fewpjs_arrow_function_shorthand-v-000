@@ -1,4 +1,4 @@
-let divide = (para1, para2) => 2000 / 100
+let divide = () => 2000 / 100
 
 let square = (para1) => para1 * para1
 
